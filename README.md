@@ -27,8 +27,7 @@ I’m a passionate developer who loves crafting sleek, responsive web apps with 
 ### 📫 Connect with Me
 
 - ✉️ Email: [igwedaniel128@gmail.com]
-- 💼 Portfolio: [your-portfolio-link.com]
-- 💬 LinkedIn: [[linkedin.com/in/yourusername](https://www.linkedin.com/in/daniel-igwe-47bb08356/)]
+- 💼 Portfolio: [portfolio-one-sage-85.vercel.app]
 
 ---
 
