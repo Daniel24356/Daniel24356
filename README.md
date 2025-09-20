@@ -36,5 +36,3 @@ I’m a passionate developer who loves crafting sleek, responsive web apps with 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-![Daniel's Contribution Snake](https://github.com/Daniel24356/Daniel24356/blob/output/github-contribution-grid-snake.svg)
